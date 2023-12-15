@@ -2,4 +2,4 @@
 
 # file has been created for learn with practice purpose
 
-# issue resolved = {"Hello"};
+# issue resolved = {"Hello"}, var ego = {2};
